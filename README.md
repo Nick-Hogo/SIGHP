@@ -1,4 +1,9 @@
 # SIGHP
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18050767.svg)](https://doi.org/10.5281/zenodo.18050767)
+[![C++17](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://en.cppreference.com/w/cpp/17)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 A hypergraph partitioner designed around the principles of information theory, capable of handling extremely large hypergraphs with up to billions of vertices using a single thread. The source code is implemented in C++.
 
 ## Key Features
